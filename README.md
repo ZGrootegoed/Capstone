@@ -1,4 +1,6 @@
 # Capstone
+Zachary Grootegoed
+
 This public repository was set up for storing the jobs csv file and the ipynb file so that it can get hosted on Binder then go into a hosted JuypterLab page.
 
 Origin of csv data file:
