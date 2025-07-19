@@ -8,3 +8,4 @@ Google Colab Link:
 https://colab.research.google.com/drive/1Z0DOTX1Fn8vQXwTSWnrERCMIs2gZl0yo?usp=sharing
 
 Binder Link:
+https://2i2c.mybinder.org/v2/gh/ZGrootegoed/Capstone/main
