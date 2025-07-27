@@ -7,7 +7,7 @@ Origin of csv data file:
 https://www.kaggle.com/datasets/PromptCloudHQ/us-technology-jobs-on-dicecom/data
 
 Google Colab Link:
-https://colab.research.google.com/drive/1obj2HbegFwLu-MzAaT70FqdyjBM3s52w?usp=sharing
+https://colab.research.google.com/drive/1kssoga2Tt6zUFbQS-Ft1ByZ-Kt8lEgJL?usp=sharing
 
 Binder Link:
 https://2i2c.mybinder.org/v2/gh/ZGrootegoed/Capstone/main
